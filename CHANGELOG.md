@@ -10,6 +10,15 @@ is listed under `[Unreleased]`.
 
 ## [Unreleased]
 
+### Changed
+
+**Android app**
+
+- New launcher icon: the white bubble with the W now sits in front of two
+  translucent bubbles, so the icon shows a conversation rather than a single
+  comment. Both colour variants (green and blue) and the Play Store icons
+  (`store/play/`) follow suit; the themed (monochrome) icon is unchanged.
+
 ## [0.3.0] - 2026-11-03
 
 ### Changed

@@ -651,8 +651,9 @@ lists each one individually.
 
 ## Icon and trademarks
 
-The app icon is an original drawing: a speech bubble – the app is about
-comments – with a W inside, in flat geometry. It uses **no third-party word
+The app icon is an original drawing: a white speech bubble with a W inside,
+in front of two translucent bubbles – the app is about comments, and usually
+about more than one. It uses **no third-party word
 mark or logo** and can therefore be published without concern.
 
 ![App icon in various masks and sizes](assets/icon-preview.png)

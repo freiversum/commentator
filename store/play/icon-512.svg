@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <rect width="512" height="512" fill="#3DDC84"/>
-<g transform="translate(25 29) scale(4.28)">
-<path fill="#FFFFFF" d="M44,28 H64 A16,16 0 0 1 80,44 V60 A16,16 0 0 1 64,76 H46 L32,84 L38,76 A16,16 0 0 1 28,60 V44 A16,16 0 0 1 44,28 Z"/>
-<path fill="none" stroke="#11131A" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" d="M42,45 L48.5,61 L54,50 L59.5,61 L66,45"/>
+<g transform="translate(-30.2 -29.7) scale(5.3)">
+<path fill="#FFFFFF" fill-opacity="0.38" d="M40,28 H52 A13,13 0 0 1 65,41 V49 A13,13 0 0 1 52,62 H40 A13,13 0 0 1 27,49 V41 A13,13 0 0 1 40,28 Z"/>
+<path fill="#FFFFFF" fill-opacity="0.38" d="M62,45 H71 A12,12 0 0 1 83,57 V62 A12,12 0 0 1 77.0,72.39 L77,80.5 L70,74 H62 A12,12 0 0 1 50,62 V57 A12,12 0 0 1 62,45 Z"/>
+<path fill="#0B5A33" fill-opacity="0.16" d="M45,38.5 H58 A13,13 0 0 1 71,51.5 V62.5 A13,13 0 0 1 58,75.5 H46 L33,84 L38.5,73.76 A13,13 0 0 1 32,62.5 V51.5 A13,13 0 0 1 45,38.5 Z"/>
+<path fill="#FFFFFF" d="M45,37 H58 A13,13 0 0 1 71,50 V61 A13,13 0 0 1 58,74 H46 L33,82.5 L38.5,72.26 A13,13 0 0 1 32,61 V50 A13,13 0 0 1 45,37 Z"/>
+<path fill="none" stroke="#11131A" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" d="M40.0,47.5 L46.2,63.5 L51.5,53.0 L56.8,63.5 L63.0,47.5"/>
 </g></svg>
