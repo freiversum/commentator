@@ -19,6 +19,10 @@ is listed under `[Unreleased]`.
   comment. Both colour variants (green and blue) and the Play Store icons
   (`store/play/`) follow suit; the themed (monochrome) icon is unchanged.
 
+**Documentation**
+
+- README restructured: feature grid, screenshots beside the text, facts at a glance.
+
 ## [0.3.0] - 2026-11-03
 
 ### Changed
