@@ -21,7 +21,7 @@ msgstr ""
 
 #. Plugin URI of the plugin
 #: commentator-bridge.php
-msgid "https://github.com/linuxundich/commentator"
+msgid "https://github.com/freiversum/commentator"
 msgstr ""
 
 #. Description of the plugin

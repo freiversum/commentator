@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Commentator Bridge
- * Plugin URI:        https://github.com/linuxundich/commentator
+ * Plugin URI:        https://github.com/freiversum/commentator
  * Description:       Lean REST endpoints for the Commentator Android app: cheap checks for new comments, bulk actions the core API lacks, and optional instant notifications via UnifiedPush.
  * Version:           1.9.0
  * Requires at least: 6.0

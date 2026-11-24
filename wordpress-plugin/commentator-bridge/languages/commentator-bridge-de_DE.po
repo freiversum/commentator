@@ -19,8 +19,8 @@ msgstr "Commentator Bridge"
 
 #. Plugin URI of the plugin
 #: commentator-bridge.php
-msgid "https://github.com/linuxundich/commentator"
-msgstr "https://github.com/linuxundich/commentator"
+msgid "https://github.com/freiversum/commentator"
+msgstr "https://github.com/freiversum/commentator"
 
 #. Description of the plugin
 #: commentator-bridge.php

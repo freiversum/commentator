@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/linuxundich/commentator/releases"><strong>Download APK</strong></a>
+  <a href="https://github.com/freiversum/commentator/releases"><strong>Download APK</strong></a>
   &nbsp;·&nbsp;
   <a href="https://linuxundich.de/projekte/commentator/">Project page</a>
   &nbsp;·&nbsp;
@@ -148,7 +148,7 @@ Android Keystore.
 ## Install
 
 1. **Install the app.** Download the signed APK from the
-   [releases page](https://github.com/linuxundich/commentator/releases) and open
+   [releases page](https://github.com/freiversum/commentator/releases) and open
    it on your phone (Android asks once to allow installing from your browser or
    file manager). Updates are manual for now: install the newer APK over the
    old one. Or [build it yourself](docs/guide.md#7-build-the-app).
@@ -182,7 +182,7 @@ I build for Linux and Android.
 
 ## Feedback
 
-Found a bug or have an idea? [Open an issue](https://github.com/linuxundich/commentator/issues).
+Found a bug or have an idea? [Open an issue](https://github.com/freiversum/commentator/issues).
 Commentator is developed by [Christoph Langner](https://www.linuxundich.de)
 with the help of AI tools.
 

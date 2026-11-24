@@ -12,6 +12,7 @@ is listed under `[Unreleased]`.
 
 ### Changed
 
+- The repository moved to the freiversum organization: https://github.com/freiversum/commentator. Old `github.com/linuxundich/commentator` links and clone URLs redirect.
 **Android app**
 
 - New launcher icon: the white bubble with the W now sits in front of two
